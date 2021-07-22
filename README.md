@@ -4,10 +4,13 @@
 clone the repository `git clone https://github.com/alvon-X/lux_backend_test.git` 
 
 - Step 2<br/>
-run `npm install`
+move to directory `cd lux_backend_test`
 
 - Step 3<br/>
-start server `npm start`
+run `npm install`
 
 - Step 4<br/>
+start server `npm start`
+
+- Step 5<br/>
 go to `http://127.0.0.1:5000/pythonDataFromNode` to see the response 
