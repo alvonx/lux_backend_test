@@ -1,7 +1,7 @@
 # Backend Coding Test (Node and Python)
 
 - Step 1<br/>
-clone the repository `git clone https://github.com/alvon-X/lux_backend_test.git` 
+clone the repository `git clone https://github.com/alvonx/lux_backend_test.git` 
 
 - Step 2<br/>
 move to directory `cd lux_backend_test`
